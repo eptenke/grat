@@ -15,3 +15,12 @@ Firstly, because it is hard to keep up with developments in the open source hard
 
 Secondly, because robotics are threatening jobs worldwide, and this project aims to stand in the gap, democratizing robotics, enabling desktop manufacturing on a wide scale, and generally bringing the equity gains from using and owning robotics into the common user's grasp.  Coupled with such projects as RepRap for printing, and FarmBot for agriculture, we start being able to meet very real needs in a manageable way.  As such, this project must be open source, free of corporate control, as the people's means to supply for itself, even if currency may be hard to come by.
 
+Eventually, in the far future, GRAT could enable a suite of bots, each doing its job well: the main assembler/disassembler to compile and update bots, a linker to attach and detach modules at runtime (mobility chassis, toolhead switches, etc...), a recycler to melt down plastic for printer feed (or equivalents for other materials), space and shelving formatters, ID taggers, motor winders, automatic chemistry or DNA labs, and so on.
+
+## How do I get started?
+
+Currently GRAT has no code.  We need help!
+
+The first goal is to create a GRAT: a minimally self-compiling compiler.  Basic tools toward this end will be a 3D printer and a programmable robotic arm.  The first GRAT will likely be a modified open source programmable robotic arm project.  
+
+Good candidates should be desktop-sized, affordable, open source, and programmable.  An Annin AR2 might be a good first place to look.  The AR2 and AR3 have project goals in line with ours, and are touted to put robotics within grasp of the common user.  They're also supposedly printable, though aluminum construction may be preferred.  If plastic extrusion is possible for an AR2 parts, this might be a good starting place.
