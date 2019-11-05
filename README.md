@@ -27,4 +27,6 @@ Good candidates should be desktop-sized, affordable, open source, and programmab
 
 Other options include the Thor arm or the BCN3D Moveo.  Both are open source, printable, and more affordable, but the question is whether they're powerful enough.
 
+pyBot might be an excellent choice.  It is very inexpensive ($87).  The reverse kinematics are solved and handled, ans you can specify trajectories.  Programmed in python.  Completely open source.  But will 3 degrees of freedom be enough?  Will its SCARA format be sufficient?  
+
 Eventually, it should be possible to spend $300 for a minimal arm and printer, download the bootstrapper instructions, and bootstrap a grat, from which you can build any other robotics project.  We are currently nowhere close, but that is the goal.
