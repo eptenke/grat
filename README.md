@@ -23,7 +23,9 @@ Currently GRAT has no code.  We need help!
 
 The first goal is to create a GRAT: a minimally self-compiling compiler.  Basic tools toward this end will be a 3D printer and a programmable robotic arm.  The first GRAT will likely be a modified open source programmable robotic arm project.  
 
-Good candidates should be desktop-sized, affordable, open source, and programmable.  An Annin AR2 might be a good first place to look.  The AR2 and AR3 have project goals in line with ours, and are touted to put robotics within grasp of the common user.  They're also supposedly printable, though aluminum construction may be preferred.  If plastic extrusion is possible for an AR2 parts, this might be a good starting place.  However, it is quite expensive.
+But that's a rather large goal.  And perhaps doing everything in one machine shouldn't even be the goal.  Perhaps a grat will be the glue between multiple open source projects.  The first conceivable baby steps toward our goal will be to assist in builds.  For example, assisting prints by reloading the feedstock or removing completed objects, perhaps even checking for print errors, might be a good place to begin.  That may suggest changes to those managed projects, such that they can be easily started and stopped via script, and that the prints might have gripper spots automatically attached for ease of gripping.
+
+Good candidates for an arm should be desktop-sized, affordable, open source, and programmable.  An Annin AR2 might be a good first place to look.  The AR2 and AR3 have project goals in line with ours, and are touted to put robotics within grasp of the common user.  They're also supposedly printable, though aluminum construction may be preferred.  If plastic extrusion is possible for an AR2 parts, this might be a good starting place.  However, it is quite expensive.
 
 Other options include the Thor arm or the BCN3D Moveo.  Both are open source, printable, and more affordable, but the question is whether they're powerful enough.
 
