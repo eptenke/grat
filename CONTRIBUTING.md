@@ -8,18 +8,7 @@ https://groups.google.com/forum/#!forum/opengrat
 
 ### Arm Selection
 
-The first priority is evaluating the current robotic arm projects for a likely candidate.  It needs to be:
-* programmable
-* affordable
-* extensible
-* sturdy enough
-* open source
-
-The Annin AR2 and AR3 look promising, but the hardware and servo kits are more than $800 alone.  Similar with evez0r.  
-
-Perhaps if we were clever with one of the arms available on Amazon for less than $200?  Even the weaker arms might be able to accomplish much using simple machines and mechanical advantage.
-
-Anyway, selection of arms discussion can be taken up in the email list.  Drop in and say Hi. 
+The first priority is evaluating the current robotic arm projects for a likely candidate.  Research and analysis are being collected in the [Robotic Arms wiki page](https://github.com/eptenke/grat/wiki/RoboticArms)
 
 ### Assembly Analysis
 
