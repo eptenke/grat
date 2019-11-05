@@ -21,6 +21,8 @@ Eventually, in the far future, GRAT could enable a suite of bots, each doing its
 
 Currently GRAT has no code.  We need help!
 
+See [the GRAT wiki](https://github.com/eptenke/grat/wiki) for more information on getting started.
+
 The first goal is to create a GRAT: a minimally self-compiling compiler.  Basic tools toward this end will be a 3D printer and a programmable robotic arm.  The first GRAT will likely be a modified open source programmable robotic arm project.  
 
 But that's a rather large goal.  And perhaps doing everything in one machine shouldn't even be the goal.  Perhaps a grat will be the glue between multiple open source projects.  The first conceivable baby steps toward our goal will be to assist in builds.  For example, assisting prints by reloading the feedstock or removing completed objects, perhaps even checking for print errors, might be a good place to begin.  That may suggest changes to those managed projects, such that they can be easily started and stopped via script, and that the prints might have gripper spots automatically attached for ease of gripping.
