@@ -7,9 +7,9 @@ Bots that make bots
 
 GRAT aims to be a robotic platform for assembling and disassembling other open source robotic projects.
 
-Programs that can build programs revolutionized software.  Compilers offered a single specification across multiple platforms, enabling collaboration and interoperability.  Linkers assemble parts that compilers produce.  Make resolves dependencies.  And so on.  We can now initiate a complex build with a single command that downloads and builds hundreds of other programs and libraries.
+Compilers that can compile their own code ([self hosted](https://en.m.wikipedia.org/wiki/Self-hosting_(compilers))) revolutionized software.  Compilers offered a single specification across multiple platforms, enabling collaboration and interoperability.  Linkers assemble parts that compilers produce.  Make resolves dependencies.  And so on.  We can now initiate a complex build with a single command that downloads and builds hundreds of other programs and libraries.
 
-GRAT is a bot that makes bots.  A robot equivalent of the... linker?..., it will enable one to keep up with updates in various open hardware projects, facilitating collaboration and interoperability between different bot projects.  How can we autoupdate our bots without being able first to automatically assemble and disassemble them?
+GRAT is a bot that makes bots.  A self hosted assembly bot will enable one to keep up with updates in various open hardware projects, facilitating collaboration and interoperability between different bot projects.  How can we autoupdate our bots without being able first to automatically assemble and disassemble them?
 
 ## Why?
 
