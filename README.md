@@ -1,13 +1,15 @@
 # grat
 GRAT Robotics Assembly Toolkit
 
+Bots that make bots
+
 ## What is GRAT?
 
 GRAT aims to be a robotic platform for assembling and disassembling other open source robotic projects.
 
-In the early days of programming, the first compilers revolutionized programming, allowing collaboration on a far greater scale than previously.  A compiler that could create a compiler, as well as compile other programs, allowed one to work at a higher symbolic level, leaving assembler work for those portions that truly required optimization.  Programs could be developed for multiple platforms, and developers from these multiple platforms could work together on the same codebase.
+Code that can make code revolutionized software.  Such programs are called compilers, and they enabled collaboration and interoperability at an unprecedented scale.  Modern software would be inconceivable without compilers.
 
-The current state of open source hardware is analogous to programming directly in machine code.  GRAT aims to be a robot assembler/disassembler, enabling one to keep up with updates in various open hardware projects.  We have come to expect being able to "make; make install" for software, and it can create the software with little intervention.  We want to do the same for robotics projects, and we believe that such a robot compiler would bring open source robotics and its collaboration to an unparalleled new level.
+GRAT is a bot that makes bots.  A robot equivalent of the compiler, it will enable one to keep up with updates in various open hardware projects, facilitating collaboration and interoperability between different bot projects.  How can we autoupdate our bots without being able first to automatically assemble and disassemble them?
 
 ## Why?
 
