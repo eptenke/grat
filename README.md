@@ -23,7 +23,7 @@ Eventually, in the far future, GRAT could enable a suite of bots, each doing its
 
 ## How do I get started?
 
-Currently GRAT has no code.  We need help!
+This project is beginning with assisted prints.  The first step will be to remove prints from the print bed, scrape the bed, and then start the next gcode.  Next step might be command line slicing with slic3r, if we need to add a structure for automatic print removal.
 
 See the [Contributing.md](https://github.com/eptenke/grat/blob/master/CONTRIBUTING.md)
 
