@@ -25,6 +25,15 @@ Eventually, in the far future, GRAT could enable a suite of bots, each doing its
 
 This project is beginning with assisted prints, batching with print3r to run the prints and.... something... to run the arm (once I build one!).  The first step will be to remove prints from the print bed, scrape the bed, and then start the next gcode.  Next step might be command line slicing with slic3r, if we need to add a structure for automatic print removal.
 
+### Requirements
+
+* A linux system, needed for print3r
+* slic3r
+* A 3d printer (I have a monoprice mini delta that was gifted to me)
+* A robotic arm.  Thor or AR2/AR3 are suggested
+
+### Further Resources
+
 See the [Contributing.md](https://github.com/eptenke/grat/blob/master/CONTRIBUTING.md)
 
 See [the GRAT wiki](https://github.com/eptenke/grat/wiki) for more information on getting started.
