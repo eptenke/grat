@@ -4,6 +4,11 @@
 The OpenGRAT community can communicate through this google group:
 https://groups.google.com/forum/#!forum/opengrat
 
+## Design Guidelines
+* KISS.  Literally.  Keep the bots stupid.  Intelligent bots take way more programming and testing.  Whatever we can do to take the need for smarts out can be a gain in robustness, maintainability, and raw capability.  For example:
+** Marking grip points in the design of an object
+** Marking QR codes on objects to identify them
+
 ## Priorities/Roadmap
 
 ### Arm Selection
