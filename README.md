@@ -29,8 +29,8 @@ This project is beginning with assisted prints, batching with print3r to run the
 
 * A linux system, needed for print3r
 * slic3r
-* A 3d printer (I have a monoprice mini delta that was gifted to me)
-* A robotic arm.  Thor or AR2/AR3 are suggested
+* A sufficiently large 3d printer (I have a monoprice mini delta that was gifted to me, and it's too small.  I need to print a larger printer before I could print an arm)
+* A robotic arm.  Thor or AR2/AR3 are suggested.  Two of us are starting with a thor and trying to mod it for our purposes
 
 ### Further Resources
 
